@@ -14,6 +14,5 @@ npm install
 npm run packages-update
 npm run build
 ```
--> then delete `node_modules`, `package-lock.json`, `package.json`, `resources`, `webpack.config.js`, `.gitignore`, `.git`, `README.md`
--> then compress folder to .zip and upload as plugin
+-> then delete `node_modules`, `package-lock.json`, `package.json`, `resources`, `webpack.config.js`, `.gitignore`, `.git`, `README.md` -> then run `find . -name '.DS_Store' -delete` to delete the hidden .DS_Store file -> then compress folder to .zip and upload as plugin
 
