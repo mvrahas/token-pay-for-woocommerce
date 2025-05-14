@@ -1,7 +1,6 @@
 <?php
 /**
  * Plugin Name: Token Pay
- * Plugin URI: https://numin.xyz
  * Description: Accept crypto payments on your e-commerce store.
  * Version: 1.0.0
  *
